@@ -176,6 +176,7 @@ import polyientGamesGovernance from "./polyient-games-governance.scss";
 import pooltogether from "./pooltogether.scss";
 import potion from "./potion.scss";
 import premia from "./premia.scss";
+import prepo from "./prepo.scss";
 import primitive from "./primitive.scss";
 import pupperdao from "./pupperdao.scss";
 import qian from "./qian.scss";
@@ -445,6 +446,7 @@ export default {
   potion,
   premia,
   primitive,
+  prepo,
   pupperdao,
   qian,
   qubcoins,
